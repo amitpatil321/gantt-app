@@ -1,6 +1,6 @@
 import type { ProjectScope } from '@/types';
 
-export const APP_NAME = 'Timeline Studio 2';
+export const APP_NAME = 'Timeline Studio';
 
 export const PROJECT_COLORS = [
   '#6366f1',
